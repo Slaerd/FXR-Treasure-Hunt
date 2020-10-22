@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="all6" size="0.180000 0.080067" />
+    <ImageTarget name="top_half" size="0.180000 0.040470" />
+    <ImageTarget name="bottom_half" size="0.180000 0.040470" />
+    <ImageTarget name="map_and_cabin" size="0.060000 0.045057" />
+    <ImageTarget name="ship_and_flag" size="0.060000 0.045509" />
+    <ImageTarget name="island_and_deck" size="0.060000 0.045279" />
+    <ImageTarget name="ship_and_deck" size="0.120000 0.040400" />
+    <ImageTarget name="island_and_map" size="0.120000 0.040268" />
+    <ImageTarget name="flag_and_island" size="0.120000 0.040268" />
+    <ImageTarget name="deck_and_cabin" size="0.120000 0.040132" />
+    <ImageTarget name="ship_deck" size="0.060000 0.040050" />
+    <ImageTarget name="ship_cabin" size="0.060000 0.039866" />
+    <ImageTarget name="pirate_ship" size="0.060000 0.040067" />
+    <ImageTarget name="pirate_island" size="0.060000 0.039866" />
+    <ImageTarget name="pirate_flag" size="0.060000 0.039866" />
+    <ImageTarget name="map" size="0.060000 0.039866" />
+  </Tracking>
+</QCARConfig>

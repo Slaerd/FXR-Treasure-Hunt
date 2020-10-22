@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pirate_flag" size="0.060000 0.040035" />
+    <ImageTarget name="map" size="0.060000 0.044440" />
+    <ImageTarget name="pirate_ship" size="0.060000 0.040078" />
+    <ImageTarget name="ship_deck" size="0.060000 0.031048" />
+    <ImageTarget name="ship_cabin" size="0.060000 0.038288" />
+    <ImageTarget name="pirate_island" size="0.060000 0.033750" />
+  </Tracking>
+</QCARConfig>
