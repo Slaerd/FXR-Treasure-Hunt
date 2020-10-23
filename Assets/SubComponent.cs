@@ -20,10 +20,12 @@ public class SubComponent : MonoBehaviour
     public void Hide()
     {
         model.SetActive(false);
+        Debug.Log("subComponent hidden");
     }
 
     public void Show()
     {
         model.SetActive(true);
+        Debug.Log("subComponent shown");
     }
 }
